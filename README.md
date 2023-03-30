@@ -1,12 +1,12 @@
-# Python_Application_lists_and_dictionaries_Analysis_of_school-_results
-#Data
+# Python application lists and dictionary analysis of school results
+##Data
 students= ['Sara', 'Zineb', 'Mohamed', 'Ali', 'Khadija', 'Idriss', 'Najat', 'Nadia', 'Marouane', 'Ahmed']
-#---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
 genders  = [   'F'   ,   'F' ,  'M'  ,   'M' ,  'F'  ,    'M'  ,  'F'   ,   'F'  ,  'M'  ,  'M' ]
 groups  = [    3    ,    1  ,   1   ,    3  ,   3   ,     1   ,   2    ,    2   ,   1   ,   3 ,3]
 regions=['S','C','N']
-#---------------------------------------------------------------------------------------------------
-#scores   = {'DS': length of DS is the number of DS
+---------------------------------------------------------------------------------------------------
+scores   = {'DS': length of DS is the number of DS
 #                  The element of each DS is the mark of each student
 #           'TP': length of TP is the number of TP
 #                  The element of each TP is the mark of each student
