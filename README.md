@@ -33,6 +33,7 @@ attendance = {
 min_att = {'Present': range(0, 1, 1), 'Late': range(1, 6, 1), 'Very Late': range(6, 15, 1), 'Absent': range(15, 180, 1)}
 dic_att = {'Present': 1.0, 'Late': 0.97, 'Very Late': 0.93, 'Absent': 0.9}
 dic_all_data = {'students': students, 'scores': scores, 'attendance': attendance}
+```
 # Questions
 1) Print the name of members of group 3.
 2) Print the number of each gender in each group.
